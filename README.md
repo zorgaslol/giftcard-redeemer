@@ -1,7 +1,7 @@
 # Giftcard Generator & Redeemer  
 *A PHP + MySQL Project*
 
-A full-stack project built using PHP, MySQL, HTML, CSS, and vanilla JavaScript.  
+A full-stack project built using PHP, MySQL, HTML, CSS.  
 It allows users to:
 
 - Browse available giftcard tiers  
@@ -125,4 +125,5 @@ This project was created to practice:
 ## License
 
 This project is free to use and modify for personal learning.
+
 
