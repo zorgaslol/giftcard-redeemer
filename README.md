@@ -60,7 +60,6 @@ It allows users to:
 - MySQL
 - HTML5 / CSS3
 - Flexbox & CSS Grid
-- Vanilla JavaScript
 - XAMPP / Localhost
 
 ---
@@ -125,5 +124,6 @@ This project was created to practice:
 ## License
 
 This project is free to use and modify for personal learning.
+
 
 
