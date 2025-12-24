@@ -1,4 +1,7 @@
 # Giftcard Generator & Redeemer  
+
+![Main page](giftcardredeemer.png)
+
 *A PHP + MySQL Project*
 
 A full-stack project built using PHP, MySQL, HTML, CSS.  
@@ -124,6 +127,7 @@ This project was created to practice:
 ## License
 
 This project is free to use and modify for personal learning.
+
 
 
 
